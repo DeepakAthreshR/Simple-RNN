@@ -24,7 +24,7 @@ This project is an end-to-end demonstration of movie review sentiment analysis u
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/simple-rnn-imdb.git
+    git clone https://github.com/DeepakAthreshR/simple-rnn.git
     cd simple-rnn-imdb
     ```
 
